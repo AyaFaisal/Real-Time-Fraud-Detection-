@@ -4,7 +4,6 @@ This project implements an end-to-end, low-latency data pipeline on Google Cloud
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Architecture](#architecture)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
